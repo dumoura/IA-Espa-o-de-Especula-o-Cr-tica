@@ -99,19 +99,12 @@ Conceito desenvolvido por Michelle Lee Brown que propõe:
 
 ## 👥 Autoria
 
-**Professor/Pesquisador**: [Seu Nome]  
+**Professor/Pesquisador**: Eduardo de Moura Almeida
 **Instituição**: Faculdade de Ciências Aplicadas (FCA) - Unicamp  
 **Projeto**: Pós-doutorado sobre "Inovação Ética na Interseção da IA e Comunicação"
 
-## 📄 Licença
-
-Este projeto está sob licença [especificar licença]. Veja o arquivo `LICENSE` para mais detalhes.
 
 ## 🌐 Links
 
 - **Blog**: [remixdumoura.com](https://remixdumoura.com)
-- **Contato**: [seu-email@exemplo.com]
-
----
-
-*"Que nossos próximos passos, na pesquisa acadêmica, na prática pedagógica ou no desenvolvimento de tecnologias, possam fazer jus à imensa complexidade e à vibrante pluralidade de mundos que coexistem e resistem às monoculturas tecnológicas e epistêmicas."*
+- **Contato**: [dumoura@gmail.com]
