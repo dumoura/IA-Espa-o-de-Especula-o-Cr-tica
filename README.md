@@ -2,7 +2,7 @@
 
 > **Creative Coding: Um convite à imaginação crítica**
 
-Este repositório apresenta reflexões e debates da disciplina "Sociedade da Informação e Inteligência Artificial, Linguagens e Discursividades", ministrada na Faculdade de Ciências Aplicadas (FCA) da Unicamp. O projeto faz parte de uma pesquisa de pós-doutorado sobre "Inovação Ética na Interseção da IA e Comunicação".
+Este repositório apresenta reflexões e debates desenvolvidos em [Espaços de Especulação Crítica](https://remixdumoura.com/2025/09/22/inteligencia-artificial-e-visoes-de-futuro/). Esse projeto faz parte de uma pesquisa de pós-doutorado sobre "Inovação Ética na Interseção da IA e Comunicação".
 
 ## 🎯 Objetivo
 
